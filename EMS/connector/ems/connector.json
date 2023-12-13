@@ -3,7 +3,7 @@
   "title": "TIBCO EMS Connector",
   "author": "TIBCO Software Inc.",
   "type": "flogo:connector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "display": {
     "description": "This is TIBCO EMS connector for Flogo",
     "category": "EMS",
